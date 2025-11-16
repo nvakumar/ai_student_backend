@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+
+# Model files (optional — remove if you want to push model)
+*.h5
+*.tflite
+*.pb
+
+# Firebase admin key
+firebase_key.json
+serviceAccountKey.json
+
+# Environment variables
+.env
+
+# IDE configs
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Render build/cache
+render.yaml
