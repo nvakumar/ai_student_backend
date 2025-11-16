@@ -11,12 +11,8 @@ flask
 flask-cors
 flask-socketio
 python-dotenv
-pymongo[srv]
-firebase-admin
+pymongo
 tensorflow
-opencv-python-headless
-mediapipe
-numpy
-gevent
-gevent-websocket
 eventlet
+Pillow
+
